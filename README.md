@@ -1,4 +1,4 @@
-### Meu nome é Cristian Wagmaker, é um prazer te conhecer!!
+### Meu nome é Cristian Wagmaker, e é um prazer te conhecer!!
 <div style="display: inline_block"><br/>
     <img align="center" alt="Cris-Chibi" height= 125 src="https://i.picasion.com/pic91/a750180988f3468d98077cc95d9d3763.gif" />
      
