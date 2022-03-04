@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" alt="Cris-Chibi" height= 150 src="https://i.picasion.com/pic91/a750180988f3468d98077cc95d9d3763.gif">
+    <img align="right" alt="Cris-Chibi" height= 150 src="https://i.picasion.com/pic91/a750180988f3468d98077cc95d9d3763.gif">
 </div>
 
 
