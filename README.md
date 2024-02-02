@@ -5,7 +5,7 @@
 
 # Hello! My name is Cristian Wagmaker
 
-- :computer: I'm studying Computer Science at Faculdade Impacta de Tecnologia 6/8
+- :computer: I'm studying Computer Science at Faculdade Impacta de Tecnologia 7/8
 - :coffee: Java Jr full Stack Developer 
 - :adult: Pronouns: Him/His
 
