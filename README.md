@@ -19,7 +19,7 @@
 
 - 🔎 I am 21 years old, currently living in Brazil. I have experience with web applications using tools such as Java, Spring, SQL, Angular, Typescript and React.
 
-- 🎸 I love the geek universe, so i like video games, series, movies, manga, comics and especially the Star Wars universe, as well as rock music and playing guitar.
+- 🎸 I love the geek universe, so I like video games, series, movies, manga, comics and especially the Star Wars universe, as well as rock music and playing guitar.
 </details>
 
 ###
