@@ -13,7 +13,7 @@
 - 🎯 I'm looking for my first opportunity <br>
 - ⏳ My goal is to become a great developer
 
-<img align="right" src="https://github.com/user-attachments/assets/87f9d033-786d-4b35-95c2-b05312abd84f" height="300" alt="angularjs logo"  />
+<img align="right" src="https://github.com/user-attachments/assets/87f9d033-786d-4b35-95c2-b05312abd84f" height="240" alt="angularjs logo"  />
 <details>
     <summary>🧑🏽‍💻 More about me </summary>
 
