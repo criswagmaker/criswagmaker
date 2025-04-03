@@ -13,20 +13,17 @@
 - 🎯 I'm looking for my first opportunity <br>
 - ⏳ My goal is to become a great developer
 
-<img align="right" src="https://github.com/user-attachments/assets/87f9d033-786d-4b35-95c2-b05312abd84f" height="240" alt="angularjs logo"  />
 <details>
     <summary>🧑🏽‍💻 More about me </summary>
 
-- 🔎 I am 21 years old, currently living in Brazil. I have experience with web applications using tools such as Java, Spring, SQL, Angular, Typescript and React.
-
-- 🎸 I love the geek universe, so I like video games, series, movies, manga, comics and especially the Star Wars universe, as well as rock music and playing guitar.
+- 🔎 I am 22 years old, currently living in Brazil. I have experience with web applications using tools such as Java, Spring, SQL, Angular, Typescript and React.
 </details>
 
 ###
 
 <!--- Stats --->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=criswagmaker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=criswagmaker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="250" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=criswagmaker&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -68,7 +65,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/criswagmaker/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.wagmakerpessoal@gmail.com)
-[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22eejh5nbs3wuaznv64jaikdy?si=7c750e2c1d56499f)
 
 #
 
