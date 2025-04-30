@@ -12,20 +12,18 @@
 - 🎓 I’m studying Computer science at Faculdade Impacta Tecnologia <br>
 - 🎯 I'm looking for my first opportunity <br>
 - ⏳ My goal is to become a great developer
+- 🔎 I am 22 years old, currently living in Brazil. I have experience with web applications using tools such as Java, Spring, MySQL, Angular and Docker.
 
-<details>
-    <summary>🧑🏽‍💻 More about me </summary>
-
-- 🔎 I am 22 years old, currently living in Brazil. I have experience with web applications using tools such as Java, Spring, SQL, Angular, Typescript and React.
-</details>
 
 ###
 
 <!--- Stats --->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=criswagmaker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="250" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=criswagmaker&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://github.com/criswagmaker/">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=criswagmaker&layout=compact&langs_count=8&card_width=400&theme=tokyonight" />
+  </a>
 </div>
+
 
 ###
 
@@ -37,16 +35,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> 
-  <img width="12" />
 </div>
 
 <!--- Tools and Frameworks --->
 <h3>Tools & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -57,11 +53,14 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu"  />
+  <img width="12" />
 </div>
 
 #
 <!--- Social --->
-<h3 align="left">🤝 If you want to be my friend or contact me</h3>
+<h3 align="left">🤝 If you want to contact me</h3>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/criswagmaker/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.wagmakerpessoal@gmail.com)
