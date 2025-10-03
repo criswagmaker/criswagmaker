@@ -8,20 +8,16 @@
     Hello there 👋🏽, I'm Cristian Wagmaker and is a pleasure to meet you<br> 
 </p>
 
-- ☕ I'm a Java Jr Full Stack Developer <br>
 - 🎓 I’m studying Computer science at Faculdade Impacta Tecnologia <br>
-- 🎯 I'm looking for my first opportunity <br>
-- ⏳ My goal is to become a great developer
-- 🔎 I am 22 years old, currently living in Brazil. I have experience with web applications using tools such as Java, Spring, MySQL, Angular and Docker.
+- 🔎 I am 22 years old, currently living in Brazil.
 
 
 ###
 
 <!--- Stats --->
-<div align="left">
-  <a href="https://github.com/criswagmaker/">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=criswagmaker&layout=compact&langs_count=8&card_width=400&theme=tokyonight" />
-  </a>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=criswagmaker&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criswagmaker&layout=compact&langs_count=8&card_width=400&hide=EJS,jupyter%20notebook&theme=tokyonight" />
 </div>
 
 
