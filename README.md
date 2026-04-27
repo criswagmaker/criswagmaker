@@ -4,12 +4,6 @@
 ###
 
 <!--- About me --->
-<p>
-    Hello there 👋🏽, I'm Cristian Wagmaker and is a pleasure to meet you<br> 
-</p>
-
-- 🎓 I’m studying Computer science at Faculdade Impacta Tecnologia <br>
-- 🔎 I am 22 years old, currently living in Brazil.
 
 
 ###
