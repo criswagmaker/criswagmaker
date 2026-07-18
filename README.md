@@ -10,8 +10,8 @@
 
 <!--- Stats --->
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=criswagmaker&show_icons=true&theme=tokyonight&rank_icon=github" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criswagmaker&layout=compact&langs_count=8&card_width=400&hide=EJS,jupyter%20notebook&theme=tokyonight" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=criswagmaker&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=criswagmaker&layout=compact&langs_count=8&card_width=400&hide=EJS,jupyter%20notebook&theme=tokyonight" />
 </div>
 
 
